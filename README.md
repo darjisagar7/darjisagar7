@@ -1,4 +1,7 @@
 ## Hi there 👋
+**Backend Engineer | OpenSearch Enthusiast | Cloud & Distributed Systems**
+
+I build **scalable, reliable, and high-performance backend systems**. Passionate about APIs, distributed systems, and optimizing data workflows for real-world impact.
 
 ## 📊 GitHub Analytics
 <p align="center">
